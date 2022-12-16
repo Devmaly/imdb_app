@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/imdb-app/static/css/main.79898e4a.css",
-    "main.js": "/imdb-app/static/js/main.d4c060cc.js",
-    "index.html": "/imdb-app/index.html",
-    "main.79898e4a.css.map": "/imdb-app/static/css/main.79898e4a.css.map",
-    "main.d4c060cc.js.map": "/imdb-app/static/js/main.d4c060cc.js.map"
+    "main.css": "/imdb_app/static/css/main.79898e4a.css",
+    "main.js": "/imdb_app/static/js/main.d4c060cc.js",
+    "index.html": "/imdb_app/index.html",
+    "main.79898e4a.css.map": "/imdb_app/static/css/main.79898e4a.css.map",
+    "main.d4c060cc.js.map": "/imdb_app/static/js/main.d4c060cc.js.map"
   },
   "entrypoints": [
     "static/css/main.79898e4a.css",
